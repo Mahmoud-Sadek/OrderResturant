@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OrderRestaurant</string>
+    <string name="slogan">Slogan</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">711078655897700</string>
+    <string name="facebook_login_protocol_name">fb711078655897700</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">3a02acac6b6ca85c493e3dd436b00abf</string>
+    <string name="title_activity_tracking_order">Map</string>
+</resources>
